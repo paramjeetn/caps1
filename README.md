@@ -1,1 +1,1 @@
-site live - https://github.com/paramjeetn/caps1/settings/pages
+site live - https://paramjeetn.github.io/caps1/
